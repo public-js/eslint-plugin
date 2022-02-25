@@ -1,9 +1,6 @@
-# @public-js/pluralize
+## ⚠️ This repo is no longer maintained
 
-[![CI](https://img.shields.io/github/workflow/status/public-js/eslint-plugin/CI?style=flat-square)](https://github.com/public-js/pluralize/actions?query=workflow%3ACI)
-[![Downloads](https://img.shields.io/npm/dm/@public-js/eslint-plugin?style=flat-square)](https://www.npmjs.com/package/@public-js/pluralize)
-[![Version](https://img.shields.io/npm/v/@public-js/eslint-plugin?style=flat-square)](https://www.npmjs.com/package/@public-js/pluralize)
-[![License](https://img.shields.io/npm/l/@public-js/eslint-plugin?style=flat-square)](https://www.npmjs.com/package/@public-js/pluralize)
+### Package has been renamed to [@public-js/eslint-plugin-react-native](https://github.com/public-js/eslint-plugin-react-native)
 
 ---
 
